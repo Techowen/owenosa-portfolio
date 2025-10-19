@@ -1,0 +1,31 @@
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Logs
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Build outputs
+dist/
+build/
+
+# IDE files
+*.suo
+*.user
+*.sln
+
+# Misc
+.env
